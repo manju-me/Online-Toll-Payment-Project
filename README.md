@@ -1,5 +1,5 @@
 # Online-Toll-Payment-Project
-Installation!
+<b>Installation!<b>
 Clone the repo to a location of your choice or download the lastest prerelease from the sidebar.
 Open the Project in latest Visual Studio Software. 
 Over_View of the GUI.
